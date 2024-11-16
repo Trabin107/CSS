@@ -1,0 +1,55 @@
+h1{
+    color: rgb(163, 76, 76);
+    font-size: 50px;
+    background-color: rgb(163, 163, 77);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    
+}
+p{
+    color: rgb(41, 41, 56);
+    font-size: 20px;
+    background-color: rgb(120, 180, 120);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+button{
+    color: rgb(83, 36, 36);
+    font-size: 20px;
+    background-color: rgb(145, 117, 117);
+    
+}
+body{
+    background-color:rgb(78, 43, 43);
+}
+#heading1{
+    color:azure;
+    font-size: 50px;
+    font-weight: 200px;
+    background-color: rgb(163, 163, 77);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+.heading{
+    color: rgb(10, 10, 248);
+    font-size: 200px;
+    line-height: 200px;
+    font-weight: 900px;
+    text-transform: capitalize;
+    font-family : 'Courier New', cursive, monospace;
+    text-decoration: blue dotted underline;
+    background-color: rgb(120, 180, 120);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 50px;
+}
