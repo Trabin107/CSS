@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
+
+body{
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+
+/* Your custom CSS */
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+span.rabin {
+  color: green;
+}
+
+button.text {
+  color: pink;
+}
+
+.btn-green{
+  border-radius: 0.25rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity, 1));
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+  &:hover{
+    --tw-bg-opacity: 1;
+    background-color: rgb(29 78 216 / var(--tw-bg-opacity, 1));
+  }
+}
